@@ -1,0 +1,25 @@
+.title-pg {
+    text-align: center;
+}
+
+.edit {
+    padding: 6px;
+    text-decoration: none;
+    background: #b3cae2;
+    color: white;
+}
+
+.edit:hover {
+    background: blue;
+}
+
+.delete {
+    padding: 6px;
+    text-decoration: none;
+    background: red;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+}
